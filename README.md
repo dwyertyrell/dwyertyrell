@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @dwyertyrell
 - 👀 I’m interested in ... Judo 🥋Barista ☕️ Gym 🤸
-- 🌱 I’m currently learning ... CRUD operational projects on JavaScript; Cloud Computing 
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m current project i am working on ... chat-app repo  
 - 📫 How to reach me ... LinkedIn https://www.linkedin.com/in/tyrell-dwyer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- 
-- ⚡ Fun fact: ...
 
 <!---
 dwyertyrell/dwyertyrell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
